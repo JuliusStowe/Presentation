@@ -37,8 +37,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/matteo-durso-095554196/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="matteodurso45@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/matteo-durso-095554196/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Matteo%20Durso%20-blue?style=flat-square&logo=linkedin"></a>
+<a href="matteodurso45@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-matteodurso45@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [JuliusStowe]("https://github.com/JuliusStowe")
